@@ -1,0 +1,23 @@
+ul li{
+ color: black;
+ font-family: sans-serif;
+ alignment-baseline: central;
+ float: left;
+ list-style-type: none;
+ display: flex;
+ flex-wrap: nowrap;
+ flex-direction: column;
+}
+
+
+li {
+    font-size: 16px
+}
+
+section {
+    
+    width: 400px;
+    height: 600px;
+}
+
+
